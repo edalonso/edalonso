@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Edu. 👋
 
 <!--
 **edalonso/edalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏗 I try to construct infrastructure as code and improve developer environments. SIP is my other passion, so I can route whatever traffic that you imagine 😄
+I work at [Disashop](https://www.disashop.com/) where I'm principal engineer focused on infrastructure, security and devops. We try to create the retail of the future with our ecommerce platform. The tools I'm using are Kubernetes, Go, Crossplane, ArgoCD and HCI.
+
+[Prior](linkedin.com/in/eduardo-alonso-gil-40494851) to that, I worked at Quobis to build a webRTC platform to unify communications. If you want, take a look at my [webRTC phone](https://github.com/edalonso/webrtc-phone) based on [PJSIP](https://www.pjsip.org/) JS library.
+
+📫 If you`re in Vigo (Spain) maybe you want to come to a [rock concert](https://www.youtube.com/watch?v=TmrW8FrUXW0) and take a beer
