@@ -21,4 +21,4 @@ I work at [Disashop](https://www.disashop.com/) where I'm principal engineer foc
 
 [Prior](linkedin.com/in/eduardo-alonso-gil-40494851) to that, I worked at Quobis to build a webRTC platform to unify communications. If you want, take a look at my [webRTC phone](https://github.com/edalonso/webrtc-phone) based on [PJSIP](https://www.pjsip.org/) JS library.
 
-📫 If you`re in Vigo (Spain) maybe you want to come to a [rock concert](https://www.youtube.com/watch?v=TmrW8FrUXW0) and take a beer
+📫 If you`re in Vigo (Spain) maybe you want to come to a [rock concert](https://www.youtube.com/watch?v=TmrW8FrUXW0) and take a beer, send me an email: edu.edalonso@gmail.com
